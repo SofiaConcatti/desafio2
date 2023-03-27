@@ -1,0 +1,15 @@
+.container {
+  position: absolute;
+  display: flex;
+  width: auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: whitesmoke;
+  color: white;
+  font-weight: 600;
+}
+#Titulo {
+  color: red;
+  text-align: center;
+}
